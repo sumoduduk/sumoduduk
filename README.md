@@ -1,12 +1,11 @@
 ---
 
-# 💫 About Me:
+#  About Me:
 
-👋 Hi, I’m a Rust, TypeScript, JavaScript and Solidity developer who loves to code and build. <br><br>🌱 I’m always eager to learn new technologies and frameworks. I’m currently learning about WebAssembly, Multithreaded programming, and AI development in Rust.
-<br><br>🤝 I’m open to feedback and suggestions on how to improve my skills and projects. Feel free to reach out to me if you have any questions or comments.<br><br><br>😄 Need Affordable Software Developer for your Web, Mobile, Desktop App? I'am open for full-time and freelance opportunities. 
+Hi, I’m a Rust, TypeScript, JavaScript and Solidity developer who loves to code and build. <br><br> I’m always eager to learn new technologies and frameworks. I’m currently learning about WebAssembly, Multithreaded programming, and AI development in Rust 👋.
+<br><br> I’m open to feedback and suggestions on how to improve my skills and projects. Feel free to reach out to me if you have any questions or comments.<br><br><br> Need Affordable Software Developer for your Web, Mobile, Desktop App? I'am open for full-time and freelance opportunities. 
 
-<a href="http://abdurachmaniqbal.my.id/" target="_blank">Feel free to contact me</a>
-
+<!--  <a href="http://abdurachmaniqbal.my.id/" target="_blank">Feel free to contact me</a>  -->
 
 
 # 💻 Tech Stack:
